@@ -1,0 +1,19 @@
+.color{ background-color: #28a745 ;}
+.letra{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .letra2{font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;}
+
+    .forma{display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    }
+    
+    .colordeletra{color: #28a745;}
+    .colordeletra2{ text-emphasis-color: white ;}

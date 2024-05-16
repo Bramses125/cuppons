@@ -1,0 +1,28 @@
+#sectionprincipal{
+width: 100%;
+height: 100vh;
+background-color: cadetblue;
+display: flex;
+
+}
+img{height: 200px;
+width: 250px;}
+body{
+    margin: 0;
+    padding: 0;
+}
+#codigo1{width: 50%;
+height: 100%;
+background-color: red;
+display: flex;
+flex-wrap:wrap ;
+align-items: start;
+justify-content:space-around;
+}
+
+#codigo2{width: 50%;
+    height: 100%;
+    background-color:blue;
+display: flex;
+flex-wrap:wrap ;
+}
